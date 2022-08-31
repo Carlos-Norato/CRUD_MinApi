@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prova.Domain/1.0.0": {
+        "dependencies": {
+          "Prova.Domain.Model": "1.0.0"
+        },
+        "runtime": {
+          "Prova.Domain.dll": {}
+        }
+      },
+      "Prova.Domain.Model/1.0.0": {
+        "runtime": {
+          "Prova.Domain.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prova.Domain.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

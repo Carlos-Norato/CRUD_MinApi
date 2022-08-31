@@ -1,0 +1,17 @@
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.csproj.AssemblyReference.cache
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.AssemblyInfoInputs.cache
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.AssemblyInfo.cs
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.csproj.CoreCompileInputs.cache
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\Prova.Infra.deps.json
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\Prova.Infra.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\ref\Prova.Infra.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\Prova.Infra.pdb
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\Prova.Domain.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\Prova.Domain.Model.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\Prova.Domain.pdb
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\bin\Debug\net6.0\Prova.Domain.Model.pdb
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.csproj.CopyComplete
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\ref\Prova.Infra.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Infra\obj\Debug\net6.0\Prova.Infra.pdb

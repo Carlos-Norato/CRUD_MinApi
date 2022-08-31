@@ -1,0 +1,12 @@
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\bin\Debug\net6.0\Prova.Domain.Model.deps.json
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\bin\Debug\net6.0\Prova.Domain.Model.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\bin\Debug\net6.0\ref\Prova.Domain.Model.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\bin\Debug\net6.0\Prova.Domain.Model.pdb
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\Prova.Domain.Model.csproj.AssemblyReference.cache
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\Prova.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\Prova.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\Prova.Domain.Model.AssemblyInfo.cs
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\Prova.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\Prova.Domain.Model.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\ref\Prova.Domain.Model.dll
+C:\Users\carlos.norato\Documents\Prova\Prova.Domain.Model\obj\Debug\net6.0\Prova.Domain.Model.pdb
