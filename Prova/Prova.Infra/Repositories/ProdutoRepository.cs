@@ -116,10 +116,7 @@ namespace Prova.Infra.Repositories
              int result = 0;
              using (_connection)
              {
-                 if (data_fab.CompareTo(data_val) < 0)
-                 {
-                     result = _connection.Execute(query,parametros);
-                 }
+                 result = _connection.Execute(query,parametros);
              }
              return (result != 0 ? true:false); 
          }
